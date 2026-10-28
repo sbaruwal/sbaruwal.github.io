@@ -1,3 +1,2 @@
-# app-ads.txt for Astro Splitter
-# Replace the line below with yours from AdMob (Account → Settings → Publisher ID), without the leading #:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# app-ads.txt for sbaruwal apps (AdMob publisher ID covers every app)
+google.com, pub-7330036487655719, DIRECT, f08c47fec0942fa0
